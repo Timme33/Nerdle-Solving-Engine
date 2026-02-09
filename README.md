@@ -18,7 +18,7 @@ Given a list of valid Nerdle equations (loaded from a text file), the solver sup
 
 ![Nerdle solver demo](assets/Nerdle_Solver_Demo_fast.gif)
 
-▶️ **Full demo (1 minute):** 
+▶️ **Full demo (1 minute):** https://github.com/user-attachments/assets/5e4388cd-3b22-4823-bbb9-5367f32a95e3
 
 ---
 
